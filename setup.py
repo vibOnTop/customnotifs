@@ -6,7 +6,7 @@ setup(
     description='A library for creating colourful notifications.',
     author='viben',
     author_email='vibpredictor.licensing@gmail.com',
-    url='https://github.com/your-username/custom-messages',
+    url='https://github.com/vibOnTop/customnotifs',
     py_modules=['custom_messages'],
     install_requires=['colorama'],
 )
